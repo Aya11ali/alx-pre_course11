@@ -1,10 +1,8 @@
 #!/bin/bash
-echo "ALX@
-
 echo "ALX"
-^c
+
+^C
 
 
 
-clear
-q
+root@21073e01acfd:/alx-pre_course/0x01-git/bash#clear
